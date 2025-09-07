@@ -1,3 +1,5 @@
+```
+COLLECTION OF THE APIS
 {
 	"info": {
 		"_postman_id": "9f344319-9e5a-46ae-838e-e9fbc366f0f3",
@@ -218,3 +220,5 @@
 		}
 	]
 }
+
+```
